@@ -4,41 +4,40 @@
 
 ![Capa do Projeto](capa-quantum-lottery.png)
 
-Um projeto educativo que utiliza **computação quântica** (superposição de qubits) para gerar números de loteria de forma aleatória e divertida.
+Um projeto educativo que utiliza **computação quântica** para gerar números de loteria de forma aleatória.
 
 ## 📖 Sobre o Projeto
 
-Este projeto demonstra na prática conceitos básicos de computação quântica:
-- Criação e manipulação de qubits
-- Porta Hadamard (superposição)
-- Medição de estados quânticos
-- Conversão de resultados quânticos em números de loteria
+Este projeto demonstra conceitos básicos de computação quântica:
+- Criação de qubits em superposição
+- Medição quântica
+- Aplicação prática (geração de loterias)
 
 ## ✨ Funcionalidades
 
-- ✅ Gerador de números usando qubits
-- ✅ 10 Jogos da **Lotofácil**
-- ✅ 5 Jogos da **Mega-Sena**
-- ✅ Gráfico de distribuição dos números
-- ✅ Código limpo e bem comentado
+- Gerador quântico de números
+- 10 Jogos da Lotofácil
+- 5 Jogos da Mega-Sena
+- Gráfico de frequência dos números
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias
 
-- **Python**
-- **Cirq** (Framework de Computação Quântica do Google)
-- **Matplotlib** (Visualizações)
-- **Google Colab**
+- Python + Cirq (Google Quantum)
+- Matplotlib
 
-## 📊 Como Executar
+## 🚀 Como Executar
 
-1. Clique aqui → [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santiagop01/quantum-lottery-simulator/blob/main/Quantum-Lottery-Simulator.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santiagop01/quantum-lottery-simulator/blob/main/Quantum-Lottery-Simulator.ipynb)
+
+1. Clique no botão acima
 2. Execute todas as células (`Shift + Enter`)
 
-## 🎯 Objetivo
+## 📁 Arquivos
 
-Mostrar de forma prática e divertida como a computação quântica pode ser usada em aplicações reais (mesmo que simuladas).
+- `Quantum-Lottery-Simulator.ipynb` → Notebook principal
+- `capa-quantum-lottery.png` → Imagem de capa
 
 ---
 
 **Feito por Santiago**  
-Projeto de Introdução à Computação Quântica - Maio/2026
+Introdução à Computação Quântica - 2026
