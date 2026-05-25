@@ -31,7 +31,7 @@ Este projeto demonstra na prática conceitos básicos de computação quântica:
 
 ## 📊 Como Executar
 
-1. Clique aqui → [![santiagop01](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/quantum-lottery-simulator/blob/main/Quantum-Lottery-Simulator.ipynb)
+1. Clique aqui → [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santiagop01/quantum-lottery-simulator/blob/main/Quantum-Lottery-Simulator.ipynb)
 2. Execute todas as células (`Shift + Enter`)
 
 ## 🎯 Objetivo
@@ -42,4 +42,3 @@ Mostrar de forma prática e divertida como a computação quântica pode ser usa
 
 **Feito por Santiago**  
 Projeto de Introdução à Computação Quântica - Maio/2026
-Projeto de introdução à Computação Quântica - 2026
