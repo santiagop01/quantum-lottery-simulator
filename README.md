@@ -2,46 +2,44 @@
 
 **Simulador Quântico de Loterias usando Google Cirq**
 
-Um projeto educativo que usa **computação quântica** (superposição de qubits) para gerar números de loteria de forma aleatória.
-
 ![Capa do Projeto](capa-quantum-lottery.png)
+
+Um projeto educativo que utiliza **computação quântica** (superposição de qubits) para gerar números de loteria de forma aleatória e divertida.
 
 ## 📖 Sobre o Projeto
 
 Este projeto demonstra na prática conceitos básicos de computação quântica:
-- Criação de qubits
-- Portas quânticas (Hadamard)
+- Criação e manipulação de qubits
+- Porta Hadamard (superposição)
 - Medição de estados quânticos
-- Conversão de resultados quânticos em números úteis
+- Conversão de resultados quânticos em números de loteria
 
 ## ✨ Funcionalidades
 
-- Gerador quântico de números
-- 10 jogos da **Lotofácil**
-- 5 jogos da **Mega-Sena**
-- Visualização gráfica da distribuição dos números
-- Código limpo e comentado
+- ✅ Gerador de números usando qubits
+- ✅ 10 Jogos da **Lotofácil**
+- ✅ 5 Jogos da **Mega-Sena**
+- ✅ Gráfico de distribuição dos números
+- ✅ Código limpo e bem comentado
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python**
-- **Cirq** (Framework Quântico do Google)
+- **Cirq** (Framework de Computação Quântica do Google)
 - **Matplotlib** (Visualizações)
 - **Google Colab**
 
 ## 📊 Como Executar
 
-1. Abra o notebook no Google Colab
+1. Clique aqui → [![santiagop01](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/quantum-lottery-simulator/blob/main/Quantum-Lottery-Simulator.ipynb)
 2. Execute todas as células (`Shift + Enter`)
-3. Divirta-se gerando quantos jogos quiser!
 
-## 🎯 Aprendizados
+## 🎯 Objetivo
 
-- Introdução prática à Computação Quântica
-- Uso de simuladores quânticos
-- Transformação de resultados quânticos em aplicações reais
+Mostrar de forma prática e divertida como a computação quântica pode ser usada em aplicações reais (mesmo que simuladas).
 
 ---
 
 **Feito por Santiago**  
+Projeto de Introdução à Computação Quântica - Maio/2026
 Projeto de introdução à Computação Quântica - 2026
